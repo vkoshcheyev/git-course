@@ -18,6 +18,7 @@ Your Github Repo's Readme
 
 * List item 1
 * List item 2
+* List item 3
 
 An [anchor/link](http://example.com/ "My title")
 
